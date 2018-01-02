@@ -1,0 +1,15 @@
+body {
+  font-size: 22px; }
+
+body {
+  background: blue; }
+
+h1 {
+  font-size: 44px; }
+
+.container {
+  width: 100%;
+  text-align: center; }
+
+.testimonials--slider {
+  max-width: 50%; }
