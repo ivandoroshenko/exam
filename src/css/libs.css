@@ -1,5 +1,7 @@
 @charset "UTF-8";
 /* Magnific Popup CSS */
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400i|Montserrat");
+@import url("https://use.typekit.net/nkx4sxp.css");
 .mfp-bg {
   top: 0;
   left: 0;
@@ -3108,6 +3110,22 @@ template {
   margin: 0;
   overflow: visible;
   clip: auto; }
+
+@font-face {
+  font-family: "Bebas";
+  src: url("src/fonts/Bebas/BEBAS___.ttf") format("ttf"); }
+
+@font-face {
+  font-family: "BebasNeue Bold";
+  src: url("../../src/fonts/bebas_neue/TTFs/BebasNeue Bold.ttf") format("ttf"), url("../../src/fonts/bebas_neue/BebasNeue Bold.otf") format("otf"); }
+
+@font-face {
+  font-family: "BebasNeue Book";
+  src: url("../../src/fonts/bebas_neue/TTFs/BebasNeue Book.ttf") format("ttf"), url("../../src/fonts/bebas_neue/BebasNeue Book.otf") format("otf"); }
+
+@font-face {
+  font-family: "HelveticaLTStd";
+  src: url("../../src/fonts/helvetica-lt-std/HelveticaLTStd-BoldCond.otf") format("otf"); }
 
 /* Slider */
 .slick-slider {
