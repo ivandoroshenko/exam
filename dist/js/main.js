@@ -1,11 +1,11 @@
 $(function() {
 
-    $(function ($) {
-        $(function () {
-            $('.testimonials--slider').slick({
-                dots: true
-            });
-        })
-    })(jQuery);
+    // $(function ($) {
+    //     $(function () {
+    //         $('.testimonials--slider').slick({
+    //             dots: true
+    //         });
+    //     })
+    // })(jQuery);
 
 });
